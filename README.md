@@ -5,14 +5,15 @@
 
 ## Goal
 
-We will be diving into more Dart programming concepts and learning how to use open source Flutter packages. At the end of this app, comfortably we use Flutter packages and build repeated widgets.
+We will learn more Dart programming concepts and learn how to use open source Flutter packages. At the end of this app, comfortably we can use Flutter packages and build repeated widgets.
 
 
 ## What you will create
 
 We’re going to make a music app that plays Xylophone sounds. One can use it to generate different pleasant sounds.
 
-![Finished App]()
+![Finished App](https://user-images.githubusercontent.com/81528687/123218367-467d0900-d4e9-11eb-8f33-e89a154face3.png)
+
 
 ## Learnings
 
@@ -23,4 +24,6 @@ We’re going to make a music app that plays Xylophone sounds. One can use it to
 - Dart arrow syntax for writing one line functions.
 
 
-![End Banner](https://www.onlygfx.com/wp-content/uploads/2017/04/grunge-brush-stroke-banner-2-19-1024x269.png)
+![End Banner](https://user-images.githubusercontent.com/81528687/123218909-e8045a80-d4e9-11eb-9ed4-b26b67c493b6.jpg)
+
+
